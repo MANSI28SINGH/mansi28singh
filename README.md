@@ -1,6 +1,6 @@
 # Hi there, I'm Mansi Singh 👋
 
-I am a multi-disciplinary creator working at the intersection of **Software Development**, **Mechanical/Hardware Design (CAD)**, and **Engineering Simulations**. I love bringing ideas from lines of code into 3D space and testing them in virtual environments.
+ Welcome to my GitHub portfolio! I am a multi-disciplinary creator working at the intersection of **Software Development**, **Mechanical/Hardware Design (CAD)**, and **Engineering Simulations**. I showcase my mechanical CAD projects, Simulation projects, Matlab Scripts and other creative work here.
 
 ---
 
