@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Mansi Singh 👋
 
-<!--
-**MANSI28SINGH/mansi28singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a multi-disciplinary creator working at the intersection of **Software Development**, **Mechanical/Hardware Design (CAD)**, and **Engineering Simulations**. I love bringing ideas from lines of code into 3D space and testing them in virtual environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Skill Stack
+
+| Software & Coding | CAD & 3D Modeling | Simulation & Analysis |
+| :--- | :--- | :--- |
+| **Languages:** Python, C++, MATLAB | **Software:** SolidWorks, Catia | **FEA:** ANSYS |
+| **Web/Dev:** HTML/CSS, Git|
+| **Data:** NumPy, Pandas, Matplotlib | **Exporting:** STEP, STL for 3D Printing | **Math/Physics:** Simulink |
+
+---
+
+## 🚀 Featured Projects
+
+### 💻 Software & Coding
+* **[Circular Re Entrant - ](https://github.com/yourusername/project1)**
+    * *Description:* A brief 1-2 sentence overview of what this software project does and why it's cool.
+    * *Tech Stack:* Python, OpenCV, TensorFlow
+    * *Key Feature:* Mention a major milestone or unique challenge you solved.
+
+### 📐 CAD & Hardware Design
+* **[Project Name 2](https://github.com/yourusername/project2)**
+    * *Description:* Overview of a mechanical design project (e.g., custom drone frame, robotic arm).
+    * *Tools Used:* SolidWorks, Keyshot (for rendering)
+    * *💡 Tip:* If you have an image or GIF of your CAD assembly, insert it here! 
+        ### 🌪️ Simulation & Physics
+* **[Project Name 3](https://github.com/yourusername/project3)**
+    * *Description:* A project detailing a Finite Element Analysis (FEA) or Computational Fluid Dynamics (CFD) study.
+    * *Tools Used:* ANSYS Workbench, MATLAB
+    * *Result:* "Optimized bracket weight by 15% while maintaining a 2.0 safety factor."
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+* 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* 🌐 **Personal Portfolio:** [yourwebsite.com](https://yourwebsite.com) (If you have one)
+* 📧 **Email:** your.email@example.com
+
+"The best way to predict the future is to invent it."
