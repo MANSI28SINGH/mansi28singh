@@ -20,7 +20,7 @@ I am a multi-disciplinary creator working at the intersection of **Software Deve
 ## 🚀 Featured Projects
 
 ### 💻 Software & Coding
-* **[Quiz Master]([https://github.com/yourusername/project1](https://github.com/MANSI28SINGH/quiz_master_24F1001328))**
+* **[Quiz Master]([(https://github.com/MANSI28SINGH/quiz_master_24F1001328)])**
     * *Description:* Quiz Master - V1 is a Flask-based quiz management application designed to provide an interactive platform for managing quizzes, tracking scores, and providing feedback to users. The application features user and admin roles, detailed quiz performance tracking, and a clean user interface using Bootstrap.
 
 ### 📐 CAD & Hardware Design
