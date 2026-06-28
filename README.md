@@ -23,17 +23,12 @@ I am a multi-disciplinary creator working at the intersection of **Software Deve
 * **[Quiz Master](https://github.com/MANSI28SINGH/quiz_master_24F1001328)**
     * *Description:* Quiz Master - V1 is a Flask-based quiz management application designed to provide an interactive platform for managing quizzes, tracking scores, and providing feedback to users. The application features user and admin roles, detailed quiz performance tracking, and a clean user interface using Bootstrap.
 
-### 📐 CAD & Hardware Design
-* **[Project Name 2](https://github.com/yourusername/project2)**
-    * *Description:* Overview of a mechanical design project (e.g., custom drone frame, robotic arm).
-    * *Tools Used:* SolidWorks, Keyshot (for rendering)
-    * *💡 Tip:* If you have an image or GIF of your CAD assembly, insert it here! 
+### 📐 Mechanical CAD and Simulation Projects
+* **[Circular Re Entrant](https://github.com/jatinsharmahoon/Circular-Re-Entrant)**
+   * *Description:* This repository contains the CAD models, finite element analysis (FEA) setups, and parametric study data for the CR-X auxetic   unit cell structure. The project focuses on introducing an internal X-shaped reinforcement into a conventional circular re-entrant (CR) lattice to optimize structural stability and tune its negative Poisson's ratio (NPR) behavior.
         ### 🌪️ Simulation & Physics
 * **[Project Name 3](https://github.com/yourusername/project3)**
-    * *Description:* A project detailing a Finite Element Analysis (FEA) or Computational Fluid Dynamics (CFD) study.
-    * *Tools Used:* ANSYS Workbench, MATLAB
-    * *Result:* "Optimized bracket weight by 15% while maintaining a 2.0 safety factor."
-
+    * *Description:* 
 ---
 
 
