@@ -8,11 +8,10 @@ I am a multi-disciplinary creator working at the intersection of **Software Deve
 
 
 
- **Languages:** Python, JAVA, MATLAB *Software:** 
- SolidWorks, Fusion 360, Catia **FEA:** ANSYS 
- **Web/Dev:** HTML/CSS, Git   
- **Frame works/ Libraries** Flask, Bootstrap, Pandas, NumPy, Matplotlib, Flask-SQLAlchemy, Flask-Bcrypt, Tkinter, Jinja2 
- **Data:** NumPy, Pandas, Matplotlib 
+ **Languages:** Python, Java, SQL, HTML5, CSS3, MATLAB
+ **Software:**  SolidWorks, Fusion 360, Catia **FEA:** ANSYS 
+ **Optomization & Development tools:**
+ **Frame works/ Libraries:** Flask, Bootstrap, Pandas, NumPy, Matplotlib, Flask-SQLAlchemy, Flask-Bcrypt, Tkinter, Jinja2 
  **Exporting:** STEP, STL for 3D Printing
 
 ---
@@ -20,10 +19,8 @@ I am a multi-disciplinary creator working at the intersection of **Software Deve
 ## 🚀 Featured Projects
 
 ### 💻 Software & Coding
-* **[Circular Re Entrant - ](https://github.com/yourusername/project1)**
-    * *Description:* A brief 1-2 sentence overview of what this software project does and why it's cool.
-    * *Tech Stack:* Python, OpenCV, TensorFlow
-    * *Key Feature:* Mention a major milestone or unique challenge you solved.
+* **[Quiz Master]([https://github.com/yourusername/project1](https://github.com/MANSI28SINGH/quiz_master_24F1001328))**
+    * *Description:* Quiz Master - V1 is a Flask-based quiz management application designed to provide an interactive platform for managing quizzes, tracking scores, and providing feedback to users. The application features user and admin roles, detailed quiz performance tracking, and a clean user interface using Bootstrap.
 
 ### 📐 CAD & Hardware Design
 * **[Project Name 2](https://github.com/yourusername/project2)**
