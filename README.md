@@ -6,11 +6,14 @@ I am a multi-disciplinary creator working at the intersection of **Software Deve
 
 ## 🛠️ My Skill Stack
 
-| Software & Coding | CAD & 3D Modeling & Libraries | Simulation & Analysis |
-| :--- | :--- | :--- |
-| **Languages:** Python, JAVA, MATLAB | **Software:** SolidWorks, Fusion 360, Catia | **FEA:** ANSYS |
-| **Web/Dev:** HTML/CSS, Git|  | **Frame works/ Libraries** Flask, Bootstrap, Pandas, NumPy, Matplotlib, Flask-SQLAlchemy, Flask-Bcrypt, Tkinter, Jinja2 |
-| **Data:** NumPy, Pandas, Matplotlib | **Exporting:** STEP, STL for 3D Printing
+
+
+ **Languages:** Python, JAVA, MATLAB *Software:** 
+ SolidWorks, Fusion 360, Catia **FEA:** ANSYS 
+ **Web/Dev:** HTML/CSS, Git   
+ **Frame works/ Libraries** Flask, Bootstrap, Pandas, NumPy, Matplotlib, Flask-SQLAlchemy, Flask-Bcrypt, Tkinter, Jinja2 
+ **Data:** NumPy, Pandas, Matplotlib 
+ **Exporting:** STEP, STL for 3D Printing
 
 ---
 
