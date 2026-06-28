@@ -8,12 +8,12 @@ I am a multi-disciplinary creator working at the intersection of **Software Deve
 
 
 
- **Languages:** Python, Java, SQL, HTML5, CSS3, MATLAB
- **Software:**  SolidWorks, Fusion 360, Catia 
- **ANSYS CAE and Engineering Analysis:** Finite Element Analysis, Finite element Method, Mesh Optimization , Stress, Analysis , MATLAB
- **Optomization & Development tools:** Gurobi Optimizer, VS Code, Git
- **Frame works/ Libraries:** Flask, Bootstrap, Pandas, NumPy, Matplotlib, Flask-SQLAlchemy, Flask-Bcrypt, Tkinter, Jinja2 
- **Exporting:** STEP, STL for 3D Printing
+- **Languages:** Python, Java, SQL, HTML5, CSS3, MATLAB
+- **Software:**  SolidWorks, Fusion 360, Catia 
+- **ANSYS CAE and Engineering Analysis:** Finite Element Analysis, Finite element Method, Mesh Optimization , Stress, Analysis , MATLAB
+- **Optomization & Development tools:** Gurobi Optimizer, VS Code, Git
+- **Frame works/ Libraries:** Flask, Bootstrap, Pandas, NumPy, Matplotlib, Flask-SQLAlchemy, Flask-Bcrypt, Tkinter, Jinja2 
+- **Exporting:** STEP, STL for 3D Printing
 
 ---
 
