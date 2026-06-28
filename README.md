@@ -10,7 +10,7 @@ I am a multi-disciplinary creator working at the intersection of **Software Deve
 | :--- | :--- | :--- |
 | **Languages:** Python, C++, MATLAB | **Software:** SolidWorks, Catia | **FEA:** ANSYS |
 | **Web/Dev:** HTML/CSS, Git|
-| **Data:** NumPy, Pandas, Matplotlib | **Exporting:** STEP, STL for 3D Printing | **Math/Physics:** Simulink |
+| **Data:** NumPy, Pandas, Matplotlib | **Exporting:** STEP, STL for 3D Printing
 
 ---
 
@@ -38,8 +38,8 @@ I am a multi-disciplinary creator working at the intersection of **Software Deve
 
 ## 📫 Let's Connect!
 
-* 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* 🌐 **Personal Portfolio:** [yourwebsite.com](https://yourwebsite.com) (If you have one)
-* 📧 **Email:** your.email@example.com
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/mansisingh028/](https://www.linkedin.com/in/mansisingh028/)
+
+* 📧 **Email:** mansisinghtim@gmail.com
 
 "The best way to predict the future is to invent it."
