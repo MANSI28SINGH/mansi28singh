@@ -22,13 +22,13 @@ I am a multi-disciplinary creator working at the intersection of **Software Deve
 ### 💻 Software & Coding
 * **[Quiz Master](https://github.com/MANSI28SINGH/quiz_master_24F1001328)**
     * *Description:* Quiz Master - V1 is a Flask-based quiz management application designed to provide an interactive platform for managing quizzes, tracking scores, and providing feedback to users. The application features user and admin roles, detailed quiz performance tracking, and a clean user interface using Bootstrap.
+ * **[cloudcomputingworkshop](https://github.com/MANSI28SINGH/cloudcomputingworkshop)**
+    * *Description:*This is an interactive, responsive web interface designed to capture participant registration data, perform client-side input validation, and generate dynamic event onboarding confirmations.
 
 ### 📐 Mechanical CAD and Simulation Projects
 * **[Circular Re Entrant](https://github.com/jatinsharmahoon/Circular-Re-Entrant)**
    * *Description:* This repository contains the CAD models, finite element analysis (FEA) setups, and parametric study data for the CR-X auxetic   unit cell structure. The project focuses on introducing an internal X-shaped reinforcement into a conventional circular re-entrant (CR) lattice to optimize structural stability and tune its negative Poisson's ratio (NPR) behavior.
-        ### 🌪️ Simulation & Physics
-* **[Project Name 3](https://github.com/yourusername/project3)**
-    * *Description:* 
+
 ---
 
 
