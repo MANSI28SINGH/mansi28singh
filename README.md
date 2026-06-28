@@ -36,9 +36,6 @@ I am a multi-disciplinary creator working at the intersection of **Software Deve
 ---
 
 
-
----
-
 ## 📫 Let's Connect!
 
 * 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
