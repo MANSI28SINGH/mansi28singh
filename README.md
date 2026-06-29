@@ -29,7 +29,7 @@
     * *Description:* Quiz Master - V1 is a Flask-based quiz management application designed to provide an interactive platform for managing quizzes, tracking scores, and providing feedback to users. The application features user and admin roles, detailed quiz performance tracking, and a clean user interface using Bootstrap.
  * **[Cloud computing workshop](https://github.com/MANSI28SINGH/cloudcomputingworkshop)**
     * *Description:*This is an interactive, responsive web interface designed to capture participant registration data, perform client-side input validation, and generate dynamic event onboarding confirmations.
- *  * **[Thick and Compound Cylinder Stress Distribution Solver](https://github.com/MANSI28SINGH/Thick-Compound-Cylinder-Stress-Solver/tree/main)**
+* **[Thick and Compound Cylinder Stress Distribution Solver](https://github.com/MANSI28SINGH/Thick-Compound-Cylinder-Stress-Solver/tree/main)**
     * *Description:* An interactive Python application developed to calculate, analyze, and visualize the structural stress distribution across the walls of thick-walled and compound cylinders. By executing numerical evaluations of classical **Lame's Equations**, the software maps the precise variations of **Hoop Stress ($\sigma_\theta$)** and **Radial Stress ($\sigma_r$)** under internal, external, and interface shrink-fit pressures.
 
 
