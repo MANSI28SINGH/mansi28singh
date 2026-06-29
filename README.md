@@ -20,7 +20,7 @@
 ## 🚀 Featured Projects
 
 ### 📐 Mechanical CAD and Simulation Projects
-* **[Circular Re Entrant](https://github.com/jatinsharmahoon/Circular-Re-Entrant)**
+* **[Circular Re Entrant](https://github.com/MANSI28SINGH/Cirular_Re-entrant)**
    * *Description:* This repository contains the CAD models, finite element analysis (FEA) setups, and parametric study data for the CR-X auxetic   unit cell structure. The project focuses on introducing an internal X-shaped reinforcement into a conventional circular re-entrant (CR) lattice to optimize structural stability and tune its negative Poisson's ratio (NPR) behavior.
 
 
